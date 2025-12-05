@@ -19,9 +19,24 @@ a:hover, a:active {
     color: rgb(0, 238, 255);
 }
 
-table, tr, th, td, caption {
-    border: 1px solid #eee;
-    font-family: 'Courier New', Courier, monospace;
-    border-collapse: collapse;
-    padding: 0.5rem;
+button {
+    background-color: grey;
+    color: black;
+}
+
+.center {
+    display: block;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    text-align: center;
+}
+
+.centerButton {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    text-align: center;
 }
