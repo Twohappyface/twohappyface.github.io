@@ -2,6 +2,18 @@ body {
     background-color: #AAAA00;
 }
 
+a {
+    color: rgb(0, 103, 194);
+}
+
+a:visited {
+    color: rgb(2, 74, 115);
+}
+
+a:hover, a:active {
+    color: rgb(0, 223, 239);
+}
+
 button {
     background-color: grey;
     color: black;
