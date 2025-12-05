@@ -1,0 +1,25 @@
+body {
+    background-color: #AAAA00;
+}
+
+button {
+    background-color: grey;
+    color: black;
+}
+
+.center {
+    display: block;
+    color: rgb(161, 215, 53);
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    text-align: center;
+}
+
+.centerButton {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    text-align: center;
+}
