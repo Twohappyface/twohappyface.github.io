@@ -1,6 +1,6 @@
 // money related variables
-let money = 100;
-let totalMoney = 100;
+let money = 0;
+let totalMoney = 0;
 let cost = 10;
 let payCheck;
 
